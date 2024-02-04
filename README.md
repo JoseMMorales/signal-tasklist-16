@@ -10,7 +10,7 @@ User will be able to see a list where each person will have a TODO list, when an
 
 <div align="center">
 
-<img src="https://github.com/JoseMMorales/sekelon-loader-17/assets/43299285/6d7d26b4-ffaa-4560-b13e-0c1b915393a1" width="400">
+<img src="https://github.com/JoseMMorales/sekelon-loader-17/assets/43299285/6d7d26b4-ffaa-4560-b13e-0c1b915393a1" width="600">
 
 </div>
 
@@ -18,7 +18,7 @@ User will be able to see a list where each person will have a TODO list, when an
 
 <div align="center">
 
-<img src="https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/bfbc1c6c-f02d-424d-a216-518e87e79b47" width="200">
+<img src="https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/bfbc1c6c-f02d-424d-a216-518e87e79b47" width="400">
 
 </div>
 
@@ -26,7 +26,7 @@ User will be able to see a list where each person will have a TODO list, when an
 
 <div align="center">
 
-<img src="https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/7b3fd292-7deb-4419-aa32-f496d53a0efa" width="200">
+<img src="https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/7b3fd292-7deb-4419-aa32-f496d53a0efa" width="500">
 
 </div>
 
