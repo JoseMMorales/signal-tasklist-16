@@ -16,7 +16,7 @@ User will be able to see a list where each person will have a TODO list, when an
 
 ### ❗❗ How convert from Signal to Observable 
 
-<div align="center" style="width: 300px">
+<div align="center" style="width: 180px">
 
 
 ![image](https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/bfbc1c6c-f02d-424d-a216-518e87e79b47)
@@ -25,7 +25,7 @@ User will be able to see a list where each person will have a TODO list, when an
 
 ### ❗❗ How convert from Observable to Signal
 
-<div align="center" style="width: 300px">
+<div align="center" style="width: 180px">
 
 ![image](https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/7b3fd292-7deb-4419-aa32-f496d53a0efa)
 
@@ -35,7 +35,7 @@ User will be able to see a list where each person will have a TODO list, when an
 
 Please use commands as following to install/start the Exercise:
 
-- `git clone `
+- `git clone https://github.com/JoseMMorales/signal-tasklist-16.git`
 - `cd signals-taskList`
 - `code .` if using VSCode
 
