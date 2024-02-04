@@ -8,26 +8,25 @@ User will be able to see a list where each person will have a TODO list, when an
 
 ### Signal Task and TODO list on UI
 
-<div align="center" style="width: 400px">
+<div align="center">
 
-![image](https://github.com/JoseMMorales/sekelon-loader-17/assets/43299285/6d7d26b4-ffaa-4560-b13e-0c1b915393a1)
+<img src="https://github.com/JoseMMorales/sekelon-loader-17/assets/43299285/6d7d26b4-ffaa-4560-b13e-0c1b915393a1" width="400">
 
 </div>
 
 ### ❗❗ How convert from Signal to Observable 
 
-<div align="center" style="width: 180px">
+<div align="center">
 
-
-![image](https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/bfbc1c6c-f02d-424d-a216-518e87e79b47)
+<img src="https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/bfbc1c6c-f02d-424d-a216-518e87e79b47" width="200">
 
 </div>
 
 ### ❗❗ How convert from Observable to Signal
 
-<div align="center" style="width: 180px">
+<div align="center">
 
-![image](https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/7b3fd292-7deb-4419-aa32-f496d53a0efa)
+<img src="https://github.com/JoseMMorales/sekeleton-loader-17/assets/43299285/7b3fd292-7deb-4419-aa32-f496d53a0efa" width="200">
 
 </div>
 
